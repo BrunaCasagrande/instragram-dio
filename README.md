@@ -1,2 +1,2 @@
 # instragram-dio
-projeto de recriação da página inicial do instagram
+projeto de recriação da página inicial do instagram.
